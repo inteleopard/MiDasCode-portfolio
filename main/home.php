@@ -1,9 +1,6 @@
 <?php
     $base_url = isset($base_url) ? $base_url : '';
 ?>
-<style>
-
-</style>
 <!-- Hero Section Begin -->
 <section class="hero">
     <div class="hero__slider owl-carousel">
@@ -187,8 +184,8 @@
                 </div>
             </div>
         </div>
-        <div class="row image-area">
-            <div class="col-lg-3 col-md-6 col-sm-6 p-2 offset-lg-2">
+        <div class="row">
+            <div class="col-lg-3 col-md-6 col-sm-12 p-2 offset-lg-2">
                 <div class="team__item set-bg" data-setbg="<?php echo $base_url ?>img/team/chen.png">
                     <div class="team__item__text">
                         <h4>Robert Chen</h4>
@@ -204,7 +201,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-lg-3 col-md-6 col-sm-6 p-2 offset-lg-1">
+            <div class="col-lg-3 col-md-6 col-sm-12 p-2 offset-lg-1">
                 <div class="team__item set-bg" data-setbg="<?php echo $base_url ?>img/team/ryo.png">
                     <div class="team__item__text">
                         <h4>Ryo Mukaitsubo</h4>
@@ -221,8 +218,8 @@
                 </div>
             </div>
         </div>
-        <div class="row image-area">
-            <div class="col-lg-3 col-md-6 col-sm-6 p-2">
+        <div class="row">
+            <div class="col-lg-3 col-md-6 col-sm-12 p-2">
                 <div class="team__item set-bg" data-setbg="<?php echo $base_url ?>img/team/vitaly.jpeg">
                     <div class="team__item__text">
                         <h4>Vitaly Yanovsky</h4>
@@ -238,7 +235,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-lg-3 col-md-6 col-sm-6 p-2 offset-lg-1">
+            <div class="col-lg-3 col-md-6 col-sm-12 p-2 offset-lg-1">
                 <div class="team__item set-bg" data-setbg="<?php echo $base_url ?>img/team/via.png">
                     <div class="team__item__text">
                         <h4>Viacheslav Overchenko</h4>
@@ -254,7 +251,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-lg-3 col-md-6 col-sm-6 p-2 offset-lg-1">
+            <div class="col-lg-3 col-md-6 col-sm-12 p-2 offset-lg-1">
                 <div class="team__item set-bg" data-setbg="<?php echo $base_url ?>img/team/argo.jpg">
                     <div class="team__item__text">
                         <h4>Argo Tamm</h4>
@@ -271,8 +268,8 @@
                 </div>
             </div>
         </div>
-        <div class="row image-area">
-            <div class="col-lg-3 col-md-6 col-sm-6 p-2 offset-lg-2">
+        <div class="row">
+            <div class="col-lg-3 col-md-6 col-sm-12 p-2 offset-lg-2">
                 <div class="team__item set-bg" data-setbg="<?php echo $base_url ?>img/team/vitaly.jpeg">
                     <div class="team__item__text">
                         <h4>Vitaly Yanovsky</h4>
@@ -288,7 +285,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-lg-3 col-md-6 col-sm-6 p-2 offset-lg-2">
+            <div class="col-lg-3 col-md-6 col-sm-12 p-2 offset-lg-2">
                 <div class="team__item set-bg" data-setbg="<?php echo $base_url ?>img/team/tanj.jpg">
                     <div class="team__item__text">
                         <h4>Tajnarine Ganpat</h4>

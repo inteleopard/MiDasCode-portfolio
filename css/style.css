@@ -773,6 +773,7 @@ ol {
   position: relative;
   overflow: hidden;
   border-radius: 50px;
+  transform: rotate(355deg);
 }
 
 .image-area{
@@ -2317,6 +2318,8 @@ ol {
 
   .team__item {
     margin-bottom: 20px;
+    height: 450px;
+    transform: rotate(0deg);
   }
 
   .team .p-0 {
