@@ -129,7 +129,7 @@
                                 <img src="<?php echo $base_url ?>img/icons/si-6.png" alt="">
                             </div>
                             <h4>Web Development</h4>
-                            <p>We offer a plethora of services like SEO, SEM, SMM, Complete Digital Marketing,
+                            <p>We offer a plethora of services like SEO, SEM, SMM, Complete Digithubal Marketing,
                                 Website Design and Development, E-Commerce Solutions, CMS and other IT projects</p>
                         </div>
                     </div>
@@ -178,7 +178,7 @@
 
 <!-- Team Section Begin -->
 <section class="team spad set-bg" data-setbg="<?php echo $base_url ?>img/team-bg.jpg">
-    <div class="container">
+    <div class="container reveal fade-bottom">
         <div class="row">
             <div class="col-lg-12">
                 <div class="section-title team__title">
@@ -199,7 +199,7 @@
                             <a href="#"><i class="fa fa-linkedin"></i></a>
                             <a href="#"> <span class="letter">D</span></a>
                             <a href="#"><i class="fa fa-telegram"></i></a>
-                            <a href="#"><i class="fa fa-git"></i></a>
+                            <a href="#"><i class="fa fa-github"></i></a>
                         </div>
                     </div>
                 </div>
@@ -215,7 +215,7 @@
                             <a href="#"><i class="fa fa-linkedin"></i></a>
                             <a href="#"> <span class="letter">D</span></a>
                             <a href="#"><i class="fa fa-telegram"></i></a>
-                            <a href="#"><i class="fa fa-git"></i></a>
+                            <a href="#"><i class="fa fa-github"></i></a>
                         </div>
                     </div>
                 </div>
@@ -233,7 +233,7 @@
                             <a href="#"><i class="fa fa-linkedin"></i></a>
                             <a href="#"> <span class="letter">D</span></a>
                             <a href="#"><i class="fa fa-telegram"></i></a>
-                            <a href="#"><i class="fa fa-git"></i></a>
+                            <a href="#"><i class="fa fa-github"></i></a>
                         </div>
                     </div>
                 </div>
@@ -249,7 +249,7 @@
                             <a href="#"><i class="fa fa-linkedin"></i></a>
                             <a href="#"> <span class="letter">D</span></a>
                             <a href="#"><i class="fa fa-telegram"></i></a>
-                            <a href="#"><i class="fa fa-git"></i></a>
+                            <a href="#"><i class="fa fa-github"></i></a>
                         </div>
                     </div>
                 </div>
@@ -265,7 +265,7 @@
                             <a href="#"><i class="fa fa-linkedin"></i></a>
                             <a href="#"> <span class="letter">D</span></a>
                             <a href="#"><i class="fa fa-telegram"></i></a>
-                            <a href="#"><i class="fa fa-git"></i></a>
+                            <a href="#"><i class="fa fa-github"></i></a>
                         </div>
                     </div>
                 </div>
@@ -283,7 +283,7 @@
                             <a href="#"><i class="fa fa-linkedin"></i></a>
                             <a href="#"> <span class="letter">D</span></a>
                             <a href="#"><i class="fa fa-telegram"></i></a>
-                            <a href="#"><i class="fa fa-git"></i></a>
+                            <a href="#"><i class="fa fa-github"></i></a>
                         </div>
                     </div>
                 </div>
@@ -299,7 +299,7 @@
                             <a href="#"><i class="fa fa-linkedin"></i></a>
                             <a href="#"> <span class="letter">D</span></a>
                             <a href="#"><i class="fa fa-telegram"></i></a>
-                            <a href="#"><i class="fa fa-git"></i></a>
+                            <a href="#"><i class="fa fa-github"></i></a>
                         </div>
                     </div>
                 </div>
