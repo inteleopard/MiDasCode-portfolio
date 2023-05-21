@@ -24,7 +24,7 @@ $base_url = isset($base_url) ? $base_url : '';
         </div>
         <!--begin::Scrolltop-->
         <div id="kt_scrolltop" class="scrolltop" data-kt-scrolltop="true">
-            <i class="fa fa-arrow-circle-o-up scrolltop__icon">
+            <i class="fa-solid fa-arrow-up scrolltop__icon">
                 <span class="path1"></span>
                 <span class="path2"></span>
             </i>

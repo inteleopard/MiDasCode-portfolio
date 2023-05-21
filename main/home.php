@@ -191,12 +191,12 @@
                         <h4>Robert Chen</h4>
                         <p>Team Leader</p>
                         <div class="team__item__social">
-                            <a href="#"><i class="fa fa-facebook"></i></a>
-                            <a href="#"><i class="fa fa-twitter"></i></a>
-                            <a href="#"><i class="fa fa-linkedin"></i></a>
-                            <a href="#"> <span class="letter">D</span></a>
-                            <a href="#"><i class="fa fa-telegram"></i></a>
-                            <a href="#"><i class="fa fa-github"></i></a>
+                            <a href="https://facebook.com/"><i class="fa-brands fa-facebook"></i></a>
+                            <a href="https://twitter.com/"><i class="fa-brands fa-twitter"></i></a>
+                            <a href="https://linkedin.com/"><i class="fa-brands fa-linkedin"></i></a>
+                            <a href="https://discord.com/users/"><i class="fa-brands fa-discord"></i></i></a>
+                            <a href="https://t.me/"><i class="fa-brands fa-telegram"></i></a>
+                            <a href="https://github.com/"><i class="fa-brands fa-github"></i></a>
                         </div>
                     </div>
                 </div>
@@ -207,12 +207,12 @@
                         <h4>Ryo Mukaitsubo</h4>
                         <p>3D web/game developer</p>
                         <div class="team__item__social">
-                            <a href="#"><i class="fa fa-facebook"></i></a>
-                            <a href="#"><i class="fa fa-twitter"></i></a>
-                            <a href="#"><i class="fa fa-linkedin"></i></a>
-                            <a href="#"> <span class="letter">D</span></a>
-                            <a href="#"><i class="fa fa-telegram"></i></a>
-                            <a href="#"><i class="fa fa-github"></i></a>
+                            <a href="https://facebook.com/"><i class="fa-brands fa-facebook"></i></a>
+                            <a href="https://twitter.com/"><i class="fa-brands fa-twitter"></i></a>
+                            <a href="https://linkedin.com/"><i class="fa-brands fa-linkedin"></i></a>
+                            <a href="https://discord.com/users/"><i class="fa-brands fa-discord"></i></i></a>
+                            <a href="https://t.me/"><i class="fa-brands fa-telegram"></i></a>
+                            <a href="https://github.com/"><i class="fa-brands fa-github"></i></a>
                         </div>
                     </div>
                 </div>
@@ -225,12 +225,12 @@
                         <h4>Vitaly Yanovsky</h4>
                         <p>Three.js developer</p>
                         <div class="team__item__social">
-                            <a href="#"><i class="fa fa-facebook"></i></a>
-                            <a href="#"><i class="fa fa-twitter"></i></a>
-                            <a href="#"><i class="fa fa-linkedin"></i></a>
-                            <a href="#"> <span class="letter">D</span></a>
-                            <a href="#"><i class="fa fa-telegram"></i></a>
-                            <a href="#"><i class="fa fa-github"></i></a>
+                            <a href="https://facebook.com/"><i class="fa-brands fa-facebook"></i></a>
+                            <a href="https://twitter.com/"><i class="fa-brands fa-twitter"></i></a>
+                            <a href="https://linkedin.com/"><i class="fa-brands fa-linkedin"></i></a>
+                            <a href="https://discord.com/users/"><i class="fa-brands fa-discord"></i></i></a>
+                            <a href="https://t.me/"><i class="fa-brands fa-telegram"></i></a>
+                            <a href="https://github.com/"><i class="fa-brands fa-github"></i></a>
                         </div>
                     </div>
                 </div>
@@ -241,12 +241,12 @@
                         <h4>Viacheslav Overchenko</h4>
                         <p>Cofounder</p>
                         <div class="team__item__social">
-                            <a href="#"><i class="fa fa-facebook"></i></a>
-                            <a href="#"><i class="fa fa-twitter"></i></a>
-                            <a href="#"><i class="fa fa-linkedin"></i></a>
-                            <a href="#"> <span class="letter">D</span></a>
-                            <a href="#"><i class="fa fa-telegram"></i></a>
-                            <a href="#"><i class="fa fa-github"></i></a>
+                            <a href="https://facebook.com/"><i class="fa-brands fa-facebook"></i></a>
+                            <a href="https://twitter.com/"><i class="fa-brands fa-twitter"></i></a>
+                            <a href="https://linkedin.com/"><i class="fa-brands fa-linkedin"></i></a>
+                            <a href="https://discord.com/users/"><i class="fa-brands fa-discord"></i></i></a>
+                            <a href="https://t.me/"><i class="fa-brands fa-telegram"></i></a>
+                            <a href="https://github.com/"><i class="fa-brands fa-github"></i></a>
                         </div>
                     </div>
                 </div>
@@ -257,12 +257,12 @@
                         <h4>Argo Tamm</h4>
                         <p>Metaverse & Casino Game Developer</p>
                         <div class="team__item__social">
-                            <a href="#"><i class="fa fa-facebook"></i></a>
-                            <a href="#"><i class="fa fa-twitter"></i></a>
-                            <a href="#"><i class="fa fa-linkedin"></i></a>
-                            <a href="#"> <span class="letter">D</span></a>
-                            <a href="#"><i class="fa fa-telegram"></i></a>
-                            <a href="#"><i class="fa fa-github"></i></a>
+                            <a href="https://facebook.com/"><i class="fa-brands fa-facebook"></i></a>
+                            <a href="https://twitter.com/"><i class="fa-brands fa-twitter"></i></a>
+                            <a href="https://linkedin.com/"><i class="fa-brands fa-linkedin"></i></a>
+                            <a href="https://discord.com/users/"><i class="fa-brands fa-discord"></i></i></a>
+                            <a href="https://t.me/"><i class="fa-brands fa-telegram"></i></a>
+                            <a href="https://github.com/"><i class="fa-brands fa-github"></i></a>
                         </div>
                     </div>
                 </div>
@@ -275,12 +275,12 @@
                         <h4>Vitaly Yanovsky</h4>
                         <p>Three.js developer</p>
                         <div class="team__item__social">
-                            <a href="#"><i class="fa fa-facebook"></i></a>
-                            <a href="#"><i class="fa fa-twitter"></i></a>
-                            <a href="#"><i class="fa fa-linkedin"></i></a>
-                            <a href="#"> <span class="letter">D</span></a>
-                            <a href="#"><i class="fa fa-telegram"></i></a>
-                            <a href="#"><i class="fa fa-github"></i></a>
+                            <a href="https://facebook.com/"><i class="fa-brands fa-facebook"></i></a>
+                            <a href="https://twitter.com/"><i class="fa-brands fa-twitter"></i></a>
+                            <a href="https://linkedin.com/"><i class="fa-brands fa-linkedin"></i></a>
+                            <a href="https://discord.com/users/"><i class="fa-brands fa-discord"></i></i></a>
+                            <a href="https://t.me/"><i class="fa-brands fa-telegram"></i></a>
+                            <a href="https://github.com/"><i class="fa-brands fa-github"></i></a>
                         </div>
                     </div>
                 </div>
@@ -291,12 +291,12 @@
                         <h4>Tajnarine Ganpat</h4>
                         <p>Backend Developer</p>
                         <div class="team__item__social">
-                            <a href="#"><i class="fa fa-facebook"></i></a>
-                            <a href="#"><i class="fa fa-twitter"></i></a>
-                            <a href="#"><i class="fa fa-linkedin"></i></a>
-                            <a href="#"> <span class="letter">D</span></a>
-                            <a href="#"><i class="fa fa-telegram"></i></a>
-                            <a href="#"><i class="fa fa-github"></i></a>
+                            <a href="https://facebook.com/"><i class="fa-brands fa-facebook"></i></a>
+                            <a href="https://twitter.com/"><i class="fa-brands fa-twitter"></i></a>
+                            <a href="https://linkedin.com/"><i class="fa-brands fa-linkedin"></i></a>
+                            <a href="https://discord.com/users/"><i class="fa-brands fa-discord"></i></i></a>
+                            <a href="https://t.me/"><i class="fa-brands fa-telegram"></i></a>
+                            <a href="https://github.com/"><i class="fa-brands fa-github"></i></a>
                         </div>
                     </div>
                 </div>

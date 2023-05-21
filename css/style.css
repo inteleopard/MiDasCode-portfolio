@@ -2426,3 +2426,46 @@ ol {
   }
 }
 
+.about__item{
+  margin-bottom: 50px;
+}
+@media (max-width: 768px){
+  .about_mate__image {
+    min-height: 500px !important;
+  }
+}
+.about__item h4 {
+  color: #ffffff;
+  font-size: 22px;
+  font-weight: 700;
+  margin-top: 26px;
+  margin-bottom: 18px;
+}
+
+div.about_mate{
+  margin-bottom:100px;
+}
+.about_mate__contact li span{
+  color:white;
+}
+.about_mate__contact li a{
+  color:white;
+}
+.about_mate__contact li a:hover{
+  color:#00bfe7;
+}
+.about_mate__social a{
+  color:#00bfe7;
+}
+.about_mate__social a:hover{
+  color:white;
+}
+.about__mate_position{
+  color: white;
+  font-weight: bold;
+}
+
+.about_mate__image{
+  border-radius: 25px;
+}
+
