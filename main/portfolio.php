@@ -111,7 +111,7 @@ $base_url = isset($base_url) ? $base_url : '';
             <div class="col-lg-4 col-md-6 col-sm-6 mix metaverse-games fps">
                 <div class="portfolio__item">
                     <div class="portfolio__item__video set-bg" data-setbg="<?php echo $base_url ?>img/portfolio/kohai.jpg">
-                        <a href="<?php echo $base_url ?>videos/Kohai_Clan.mov" class="play-btn video-popup"><i class="fa fa-play"></i></a>
+                        <a href="<?php echo $base_url ?>videos/Kohai_Clan.mp4" class="play-btn video-popup"><i class="fa fa-play"></i></a>
                     </div>
                     <div class="portfolio__item__text">
                         <h4>Kohaiclan</h4>
