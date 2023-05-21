@@ -34,7 +34,7 @@ $base_url = isset($base_url) ? $base_url : '';
 <section class="contact spad">
     <div class="container">
         <div class="row">
-            <div class="col-lg-12 col-md-12" style="margin-top: 170px; margin-bottom: 70px;">
+            <div class="col-lg-6 offset-lg-3 col-md-12" style="margin-top: 170px; margin-bottom: 70px;">
                 <div class="contact__form">
                     <h3>Get in touch</h3>
                     <form action="#" id="contact_form">

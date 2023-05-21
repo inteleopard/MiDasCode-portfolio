@@ -10,4 +10,5 @@ $base_url = isset($base_url) ? $base_url : '';
 <script src="<?php echo $base_url ?>js/masonry.pkgd.min.js"></script>
 <script src="<?php echo $base_url ?>js/jquery.slicknav.js"></script>
 <script src="<?php echo $base_url ?>js/owl.carousel.min.js"></script>
+<script src="<?php echo $base_url ?>js/scripts.bundle.js "></script>
 <script src="<?php echo $base_url ?>js/main.js"></script>

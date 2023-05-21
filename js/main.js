@@ -179,6 +179,9 @@
         });
     });
 
+    /*------------------
+        Contact
+    --------------------*/
     $('#contact_form').validate({
         rules: {
             name: {
@@ -217,6 +220,9 @@
             return false;
         }
     });
+    /*------------------
+        Home Image Slider
+    --------------------*/
     function reveal() {
         var reveals = document.querySelectorAll(".reveal");
 
@@ -232,8 +238,5 @@
             }
         }
     }
-
     window.addEventListener("scroll", reveal);
-
-
 })(jQuery);
