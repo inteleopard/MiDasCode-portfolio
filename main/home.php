@@ -1,7 +1,9 @@
 <?php
     $base_url = isset($base_url) ? $base_url : '';
 ?>
+<style>
 
+</style>
 <!-- Hero Section Begin -->
 <section class="hero">
     <div class="hero__slider owl-carousel">
@@ -12,7 +14,7 @@
                         <div class="hero__text">
                             <span>Get Ready to Play</span>
                             <h2>Unleash the Excitement with MiDasCode Games!</h2>
-                            <a href="#" class="primary-btn">See more about us</a>
+                            <a href="<?php echo $base_url ?>index.php/about" class="primary-btn">See more about us</a>
                         </div>
                     </div>
                 </div>
@@ -61,7 +63,7 @@
                     <p>MiDasCode is a game development team that aims to share the passion for creative and
                         outstanding
                         games.</p>
-                    <a href="#" class="primary-btn">View all services</a>
+                    <a href="<?php echo $base_url ?>index.php/services" class="primary-btn">View all services</a>
                 </div>
             </div>
             <div class="col-lg-8">
@@ -144,31 +146,31 @@
         <div class="grid-sizer"></div>
         <div class="work__item wide__item set-bg" data-setbg="<?php echo $base_url ?>img/portfolio/kohai.jpg">
             <a href="<?php echo $base_url ?>videos/Kohai_Clan.mp4" class="play-btn video-popup"><i class="fa fa-play"></i></a>
-            <a href="<?php echo $base_url ?>" class="play-btn video-popup ml-2 "><i class="fa fa-link"></i></a>
+            <a href="<?php echo $base_url ?>" class="play-btn ml-2 "><i class="fa fa-link"></i></a>
         </div>
         <div class="work__item small__item set-bg" data-setbg="<?php echo $base_url ?>img/portfolio/kromaru.jpg">
             <a href="<?php echo $base_url ?>videos/kromaru.mp4" class="play-btn video-popup"><i class="fa fa-play"></i></a>
-            <a href="<?php echo $base_url ?>" class="play-btn video-popup ml-2 "><i class="fa fa-link"></i></a>
+            <a href="<?php echo $base_url ?>" class="play-btn ml-2 "><i class="fa fa-link"></i></a>
         </div>
         <div class="work__item small__item set-bg" data-setbg="<?php echo $base_url ?>img/portfolio/taixiu.png">
             <a href="<?php echo $base_url ?>videos/mines.mp4" class="play-btn video-popup"><i class="fa fa-play"></i></a>
-            <a href="<?php echo $base_url ?>" class="play-btn video-popup ml-2 "><i class="fa fa-link"></i></a>
+            <a href="<?php echo $base_url ?>" class="play-btn ml-2 "><i class="fa fa-link"></i></a>
         </div>
         <div class="work__item large__item set-bg" data-setbg="<?php echo $base_url ?>img/portfolio/PlayZelo_Scissor.jpg">
             <a href="<?php echo $base_url ?>videos/scissor.mp4" class="play-btn video-popup"><i class="fa fa-play"></i></a>
-            <a href="<?php echo $base_url ?>" class="play-btn video-popup ml-2 "><i class="fa fa-link"></i></a>
+            <a href="<?php echo $base_url ?>" class="play-btn ml-2 "><i class="fa fa-link"></i></a>
         </div>
         <div class="work__item small__item set-bg" data-setbg="<?php echo $base_url ?>img/portfolio/aviator.png">
             <a href="<?php echo $base_url ?>videos/unity_aviator.mp4" class="play-btn video-popup"><i class="fa fa-play"></i></a>
-            <a href="<?php echo $base_url ?>" class="play-btn video-popup ml-2 "><i class="fa fa-link"></i></a>
+            <a href="<?php echo $base_url ?>" class="play-btn ml-2 "><i class="fa fa-link"></i></a>
         </div>
         <div class="work__item small__item set-bg" data-setbg="<?php echo $base_url ?>img/portfolio/PlayZelo_Plinko.jpg">
             <a href="<?php echo $base_url ?>videos/plinko.mp4" class="play-btn video-popup"><i class="fa fa-play"></i></a>
-            <a href="<?php echo $base_url ?>" class="play-btn video-popup ml-2 "><i class="fa fa-link"></i></a>
+            <a href="<?php echo $base_url ?>" class="play-btn ml-2 "><i class="fa fa-link"></i></a>
         </div>
         <div class="work__item wide__item set-bg" data-setbg="<?php echo $base_url ?>img/portfolio/gamedemo.png">
             <a href="<?php echo $base_url ?>videos/website&demo.mp4" class="play-btn video-popup"><i class="fa fa-play"></i></a>
-            <a href="<?php echo $base_url ?>" class="play-btn video-popup ml-2 "><i class="fa fa-link"></i></a>
+            <a href="<?php echo $base_url ?>" class="play-btn ml-2 "><i class="fa fa-link"></i></a>
         </div>
     </div>
 </section>
@@ -185,36 +187,42 @@
                 </div>
             </div>
         </div>
-        <div class="row">
-            <div class="col-lg-6 p-1 h-75">
-                <div class="team__item set-bg main-item" data-setbg="<?php echo $base_url ?>img/team/chen.png">
+        <div class="row image-area">
+            <div class="col-lg-3 col-md-6 col-sm-6 p-2 offset-lg-2">
+                <div class="team__item set-bg" data-setbg="<?php echo $base_url ?>img/team/chen.png">
                     <div class="team__item__text">
                         <h4>Robert Chen</h4>
                         <p>Team Leader</p>
                         <div class="team__item__social">
                             <a href="#"><i class="fa fa-facebook"></i></a>
                             <a href="#"><i class="fa fa-twitter"></i></a>
-                            <a href="#"><i class="fa fa-dribbble"></i></a>
-                            <a href="#"><i class="fa fa-instagram"></i></a>
+                            <a href="#"><i class="fa fa-linkedin"></i></a>
+                            <a href="#"> <span class="letter">D</span></a>
+                            <a href="#"><i class="fa fa-telegram"></i></a>
+                            <a href="#"><i class="fa fa-git"></i></a>
                         </div>
                     </div>
                 </div>
             </div>
-            <div class="col-lg-3 p-1 h-25 ">
-                <div class="team__item set-bg" data-setbg="<?php echo $base_url ?>img/team/via.png">
+            <div class="col-lg-3 col-md-6 col-sm-6 p-2 offset-lg-1">
+                <div class="team__item set-bg" data-setbg="<?php echo $base_url ?>img/team/ryo.png">
                     <div class="team__item__text">
-                        <h4>Viacheslav Overchenko</h4>
-                        <p>Cofounder</p>
+                        <h4>Ryo Mukaitsubo</h4>
+                        <p>3D web/game developer</p>
                         <div class="team__item__social">
                             <a href="#"><i class="fa fa-facebook"></i></a>
                             <a href="#"><i class="fa fa-twitter"></i></a>
-                            <a href="#"><i class="fa fa-dribbble"></i></a>
-                            <a href="#"><i class="fa fa-instagram"></i></a>
+                            <a href="#"><i class="fa fa-linkedin"></i></a>
+                            <a href="#"> <span class="letter">D</span></a>
+                            <a href="#"><i class="fa fa-telegram"></i></a>
+                            <a href="#"><i class="fa fa-git"></i></a>
                         </div>
                     </div>
                 </div>
             </div>
-            <div class="col-lg-3 p-1 h-25">
+        </div>
+        <div class="row image-area">
+            <div class="col-lg-3 col-md-6 col-sm-6 p-2">
                 <div class="team__item set-bg" data-setbg="<?php echo $base_url ?>img/team/vitaly.jpeg">
                     <div class="team__item__text">
                         <h4>Vitaly Yanovsky</h4>
@@ -222,27 +230,31 @@
                         <div class="team__item__social">
                             <a href="#"><i class="fa fa-facebook"></i></a>
                             <a href="#"><i class="fa fa-twitter"></i></a>
-                            <a href="#"><i class="fa fa-dribbble"></i></a>
-                            <a href="#"><i class="fa fa-instagram"></i></a>
+                            <a href="#"><i class="fa fa-linkedin"></i></a>
+                            <a href="#"> <span class="letter">D</span></a>
+                            <a href="#"><i class="fa fa-telegram"></i></a>
+                            <a href="#"><i class="fa fa-git"></i></a>
                         </div>
                     </div>
                 </div>
             </div>
-            <div class="col-lg-3 p-1 h-25">
-                <div class="team__item set-bg" data-setbg="<?php echo $base_url ?>img/team/tanj.jpg">
+            <div class="col-lg-3 col-md-6 col-sm-6 p-2 offset-lg-1">
+                <div class="team__item set-bg" data-setbg="<?php echo $base_url ?>img/team/via.png">
                     <div class="team__item__text">
-                        <h4>Tajnarine Ganpat</h4>
-                        <p>Backend Developer</p>
+                        <h4>Viacheslav Overchenko</h4>
+                        <p>Cofounder</p>
                         <div class="team__item__social">
                             <a href="#"><i class="fa fa-facebook"></i></a>
                             <a href="#"><i class="fa fa-twitter"></i></a>
-                            <a href="#"><i class="fa fa-dribbble"></i></a>
-                            <a href="#"><i class="fa fa-instagram"></i></a>
+                            <a href="#"><i class="fa fa-linkedin"></i></a>
+                            <a href="#"> <span class="letter">D</span></a>
+                            <a href="#"><i class="fa fa-telegram"></i></a>
+                            <a href="#"><i class="fa fa-git"></i></a>
                         </div>
                     </div>
                 </div>
             </div>
-            <div class="col-lg-3 p-1 h-25">
+            <div class="col-lg-3 col-md-6 col-sm-6 p-2 offset-lg-1">
                 <div class="team__item set-bg" data-setbg="<?php echo $base_url ?>img/team/argo.jpg">
                     <div class="team__item__text">
                         <h4>Argo Tamm</h4>
@@ -250,36 +262,44 @@
                         <div class="team__item__social">
                             <a href="#"><i class="fa fa-facebook"></i></a>
                             <a href="#"><i class="fa fa-twitter"></i></a>
-                            <a href="#"><i class="fa fa-dribbble"></i></a>
-                            <a href="#"><i class="fa fa-instagram"></i></a>
+                            <a href="#"><i class="fa fa-linkedin"></i></a>
+                            <a href="#"> <span class="letter">D</span></a>
+                            <a href="#"><i class="fa fa-telegram"></i></a>
+                            <a href="#"><i class="fa fa-git"></i></a>
                         </div>
                     </div>
                 </div>
             </div>
-            <div class="col-lg-3 p-1 h-25">
-                <div class="team__item set-bg" data-setbg="<?php echo $base_url ?>img/team/ryo.png">
+        </div>
+        <div class="row image-area">
+            <div class="col-lg-3 col-md-6 col-sm-6 p-2 offset-lg-2">
+                <div class="team__item set-bg" data-setbg="<?php echo $base_url ?>img/team/vitaly.jpeg">
                     <div class="team__item__text">
-                        <h4>Ryo Mukaitsubo</h4>
-                        <p>3D web/game developer</p>
+                        <h4>Vitaly Yanovsky</h4>
+                        <p>Three.js developer</p>
                         <div class="team__item__social">
                             <a href="#"><i class="fa fa-facebook"></i></a>
                             <a href="#"><i class="fa fa-twitter"></i></a>
-                            <a href="#"><i class="fa fa-dribbble"></i></a>
-                            <a href="#"><i class="fa fa-instagram"></i></a>
+                            <a href="#"><i class="fa fa-linkedin"></i></a>
+                            <a href="#"> <span class="letter">D</span></a>
+                            <a href="#"><i class="fa fa-telegram"></i></a>
+                            <a href="#"><i class="fa fa-git"></i></a>
                         </div>
                     </div>
                 </div>
             </div>
-            <div class="col-lg-3 p-1 h-25">
-                <div class="team__item set-bg" data-setbg="<?php echo $base_url ?>img/team/ryo.png">
+            <div class="col-lg-3 col-md-6 col-sm-6 p-2 offset-lg-2">
+                <div class="team__item set-bg" data-setbg="<?php echo $base_url ?>img/team/tanj.jpg">
                     <div class="team__item__text">
-                        <h4>Ryo Mukaitsubo</h4>
-                        <p>3D web/game developer</p>
+                        <h4>Tajnarine Ganpat</h4>
+                        <p>Backend Developer</p>
                         <div class="team__item__social">
                             <a href="#"><i class="fa fa-facebook"></i></a>
                             <a href="#"><i class="fa fa-twitter"></i></a>
-                            <a href="#"><i class="fa fa-dribbble"></i></a>
-                            <a href="#"><i class="fa fa-instagram"></i></a>
+                            <a href="#"><i class="fa fa-linkedin"></i></a>
+                            <a href="#"> <span class="letter">D</span></a>
+                            <a href="#"><i class="fa fa-telegram"></i></a>
+                            <a href="#"><i class="fa fa-git"></i></a>
                         </div>
                     </div>
                 </div>

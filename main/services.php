@@ -116,10 +116,10 @@ $base_url = isset($base_url) ? $base_url : '';
         <div class="row">
             <div class="col-lg-12">
                 <div class="row">
-                    <div class="col-lg-2">
+                    <div class="col-lg-12 skill_title">
                         Gaming
                     </div>
-                    <div class="col-lg-10">
+                    <div class="col-lg-12">
                         <div class="row">
                             <div class="col-lg-2 col-md-3 col-sm-4">
                                 <div class="services__item">
@@ -243,10 +243,10 @@ $base_url = isset($base_url) ? $base_url : '';
                     </div>
                 </div>
                 <div class="row">
-                    <div class="col-lg-2">
+                    <div class="col-lg-12 skill_title">
                         Blockchain and Cryptocurrency
                     </div>
-                    <div class="col-lg-10">
+                    <div class="col-lg-12">
                         <div class="row">
                             <div class="col-lg-2 col-md-3 col-sm-4">
                                 <div class="services__item">
@@ -432,8 +432,8 @@ $base_url = isset($base_url) ? $base_url : '';
                     </div>
                 </div>
                 <div class="row">
-                    <div class="col-lg-2 h3">Web Development</div>
-                    <div class="col-lg-10">
+                    <div class="col-lg-12 skill_title">Web Development</div>
+                    <div class="col-lg-12">
                         <div class="row">
                             <div class="col-lg-2 col-md-3 col-sm-4">
                                 <div class="services__item">
@@ -541,8 +541,8 @@ $base_url = isset($base_url) ? $base_url : '';
                     </div>
                 </div>
                 <div class="row">
-                    <div class="col-lg-2">NFT</div>
-                    <div class="col-lg-10">
+                    <div class="col-lg-12 skill_title">NFT</div>
+                    <div class="col-lg-12">
                         <div class="row">
                             <div class="col-lg-2 col-md-3 col-sm-4">
                                 <div class="services__item">
@@ -584,8 +584,8 @@ $base_url = isset($base_url) ? $base_url : '';
                     </div>
                 </div>
                 <div class="row">
-                    <div class="col-lg-2">Augmented Reality and Virtual Reality</div>
-                    <div class="col-lg-10">
+                    <div class="col-lg-12 skill_title">Augmented Reality and Virtual Reality</div>
+                    <div class="col-lg-12">
                         <div class="row">
                             <div class="col-lg-2 col-md-3 col-sm-4">
                                 <div class="services__item">
@@ -609,8 +609,8 @@ $base_url = isset($base_url) ? $base_url : '';
                     </div>
                 </div>
                 <div class="row">
-                    <div class="col-lg-2">Gaming Categories</div>
-                    <div class="col-lg-10">
+                    <div class="col-lg-12 skill_title">Gaming Categories</div>
+                    <div class="col-lg-12">
                         <div class="row">
                             <div class="col-lg-2 col-md-3 col-sm-4">
                                 <div class="services__item">

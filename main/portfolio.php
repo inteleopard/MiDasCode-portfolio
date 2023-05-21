@@ -8,10 +8,10 @@ $base_url = isset($base_url) ? $base_url : '';
         <div class="row">
             <div class="col-lg-12 text-center">
                 <div class="breadcrumb__text">
-                    <h2>About us</h2>
+                    <h2>Portfolio</h2>
                     <div class="breadcrumb__links">
                         <a href="<?php echo $base_url ?>index.php">Home</a>
-                        <span>About</span>
+                        <span>Portfolio</span>
                     </div>
                 </div>
             </div>

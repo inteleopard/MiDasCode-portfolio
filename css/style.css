@@ -769,13 +769,14 @@ ol {
 }
 
 .team__item {
-  height: 100%;
+  height: 290px;
   position: relative;
   overflow: hidden;
+  border-radius: 50px;
 }
 
-.main-item {
-  height: 100% !important;
+.image-area{
+  transform: rotate( 350deg );
 }
 
 .team__item:hover .team__item__text {
@@ -2370,4 +2371,22 @@ ol {
   .blog__details__quote {
     padding: 30px 40px 35px 35px;
   }
+}
+
+.discord-letter {
+  color: #fff;
+  font-size: 20px;
+  font-weight: bold;
+  text-transform: uppercase;
+  /*letter-spacing: 2px;*/
+  font-family: Arial, sans-serif;
+}
+
+.skill_title{
+  color : #fff;
+  font-size: 30px;
+  font-weight: bold;
+  text-transform: uppercase;
+  font-family: Arial, sans-serif;
+  margin-bottom: 20px;
 }
