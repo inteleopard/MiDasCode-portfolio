@@ -179,4 +179,42 @@
         });
     });
 
+    $('#contact_form').validate({
+        rules: {
+            name: {
+                required: true
+            },
+            email: {
+                required: true,
+                email: true
+            },
+            message: {
+                required: true
+            }
+        },
+        messages: {
+            name: "Please enter your name",
+            email: "Please enter a valid email address",
+            message: "Please enter your message",
+        }
+    });
+    $('#contact_form').submit(function() {
+        if ($('#contact_form').valid()) {
+            toastr.success('Sent correctly to the support team.');
+            $.ajax({
+                url: base_url + '/api.php',
+                type: 'post',
+                data:{
+                    name: $('input[name=name]').val(),
+                    email: $('input[name=email]').val(),
+                    message: $('textarea[name=message]').val(),
+                },
+                success: function(){
+                },
+                error: function(){
+                }
+            });
+            return false;
+        }
+    });
 })(jQuery);
